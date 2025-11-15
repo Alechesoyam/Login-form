@@ -65,9 +65,7 @@ $token = $_SESSION['csrf_token'];
 
             <p>Don't have an account? <a href="register.php">Register here</a></p>
 
-            <div class="mt-3 text-center">
-                <a href="#">Forgot password?</a>
-            </div>
+   
         </div>
     </div>
 </div>
